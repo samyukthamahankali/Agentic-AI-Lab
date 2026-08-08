@@ -1,0 +1,53 @@
+Applied Agentic AI
+
+Agentic AI refers to AI systems that can understand goals, make decisions,
+use tools, and perform multiple steps to complete a task.
+
+Large Language Models, commonly called LLMs, are models trained on large
+amounts of text data. They can understand and generate natural language.
+
+Retrieval-Augmented Generation, or RAG, combines information retrieval
+with language generation. Instead of relying only on the knowledge stored
+inside an LLM, a RAG system retrieves relevant information from an external
+knowledge source and provides that information to the LLM as context.
+
+A typical RAG pipeline consists of four major stages: indexing, retrieval,
+augmentation, and generation.
+
+During indexing, documents are loaded, divided into smaller chunks, converted
+into numerical representations called embeddings, and stored in a vector
+database.
+
+Embeddings represent the semantic meaning of text as numerical vectors.
+Texts with similar meanings tend to have similar vector representations.
+
+A vector database stores embeddings and allows applications to search for
+semantically similar information.
+
+During retrieval, the user's question is converted into an embedding and
+compared with stored document embeddings. The most relevant chunks are
+returned.
+
+During generation, the retrieved context is provided to an LLM. The LLM uses
+the context to generate an answer to the user's question.
+
+RAG can reduce hallucinations because the model can ground its answer in
+retrieved information.
+
+Agentic AI systems can combine RAG with tools, memory, APIs, and planning
+mechanisms to perform more complex tasks.
+
+ReAct is an agent design pattern in which an LLM alternates between reasoning
+about a task and taking actions using available tools.
+
+Memory allows an AI agent to retain useful information across interactions
+and maintain context.
+
+Multi-agent systems contain multiple specialized agents that communicate or
+coordinate to complete complex tasks.
+
+Prompt injection is a security risk in which malicious instructions are
+introduced into prompts or retrieved content to manipulate an AI system.
+
+Secure agentic AI systems should validate inputs, restrict tool permissions,
+protect sensitive information, and monitor agent actions.
