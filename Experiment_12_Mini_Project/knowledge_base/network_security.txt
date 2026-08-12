@@ -1,0 +1,50 @@
+CYBERSECURITY KNOWLEDGE BASE - NETWORK SECURITY
+
+Network security protects computer networks, systems, applications, and data
+from unauthorized access, misuse, disruption, and attacks.
+
+Important network security controls include:
+
+Firewall:
+Controls network traffic according to defined security rules.
+
+Intrusion Detection System:
+Monitors network or system activity and generates alerts for suspicious
+behavior.
+
+Intrusion Prevention System:
+Detects malicious activity and can take automated action to block it.
+
+Network segmentation:
+Divides a network into separate security zones to limit the spread of
+attacks.
+
+VPN:
+Provides an encrypted communication channel over an untrusted network.
+
+Access control:
+Ensures users and systems receive only the permissions required for their
+tasks.
+
+Common network attack indicators include:
+- Unexpected outbound traffic.
+- Repeated failed authentication attempts.
+- Communication with suspicious external addresses.
+- Unusual open ports.
+- Sudden traffic spikes.
+- Unauthorized network devices.
+- Unexpected remote-access connections.
+
+Security teams should monitor:
+- Authentication logs.
+- Firewall logs.
+- DNS activity.
+- Endpoint events.
+- Network traffic.
+- Security alerts.
+
+The principle of least privilege means users and systems should receive only
+the permissions necessary to perform their required tasks.
+
+Network monitoring and centralized logging improve detection and incident
+investigation.

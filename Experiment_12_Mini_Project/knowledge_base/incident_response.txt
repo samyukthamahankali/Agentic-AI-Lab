@@ -1,0 +1,58 @@
+CYBERSECURITY KNOWLEDGE BASE - INCIDENT RESPONSE
+
+Incident response is the organized process used to detect, investigate,
+contain, eradicate, and recover from cybersecurity incidents.
+
+A typical incident-response lifecycle includes:
+
+1. Preparation
+Establish policies, procedures, tools, communication channels, and response
+teams before incidents occur.
+
+2. Detection and Analysis
+Identify suspicious activity and determine whether a security incident has
+occurred.
+
+3. Containment
+Limit the impact and prevent the incident from spreading.
+
+4. Eradication
+Remove malware, compromised accounts, malicious persistence mechanisms, and
+other causes of the incident.
+
+5. Recovery
+Restore affected systems and services to normal operation while monitoring
+for additional malicious activity.
+
+6. Lessons Learned
+Document the incident, identify root causes, and improve security controls.
+
+Important incident-response principles:
+- Preserve evidence.
+- Record important actions and timestamps.
+- Avoid unnecessary modification of affected systems.
+- Follow organizational procedures.
+- Escalate incidents according to severity.
+- Communicate through approved channels.
+
+For a suspected compromised endpoint:
+1. Isolate the endpoint from the network.
+2. Notify the incident-response team.
+3. Preserve relevant evidence.
+4. Review endpoint and authentication logs.
+5. Identify suspicious processes and connections.
+6. Determine the scope of compromise.
+7. Remove the threat using approved procedures.
+8. Reset compromised credentials when appropriate.
+9. Restore the system from a trusted state.
+10. Monitor the endpoint after recovery.
+
+High-severity incidents may include:
+- Ransomware outbreaks.
+- Large-scale credential compromise.
+- Data breaches.
+- Active unauthorized access.
+- Major service disruption.
+
+Incident response should prioritize safety, containment, evidence preservation,
+and controlled recovery.

@@ -1,0 +1,42 @@
+CYBERSECURITY KNOWLEDGE BASE - PHISHING
+
+Phishing is a social engineering attack in which an attacker attempts to trick
+a victim into revealing sensitive information, installing malicious software,
+or performing an unsafe action.
+
+Common phishing indicators include:
+- Unexpected emails requesting passwords or credentials.
+- Urgent messages demanding immediate action.
+- Suspicious or shortened URLs.
+- Links that use domains similar to legitimate organizations.
+- Requests for financial information.
+- Unexpected attachments.
+- Messages containing unusual grammar or spelling.
+- Requests to bypass normal security procedures.
+
+Credential phishing commonly attempts to steal:
+- Usernames
+- Passwords
+- Authentication codes
+- Banking information
+- Corporate credentials
+
+Recommended response to suspected phishing:
+1. Do not click suspicious links.
+2. Do not open unexpected attachments.
+3. Do not provide passwords or authentication codes.
+4. Verify the sender through an independent communication channel.
+5. Report the message to the organization's security team.
+6. Delete or quarantine the message according to organizational policy.
+
+If a user has already entered credentials into a suspicious website,
+the password should be changed immediately through the legitimate service.
+Security teams should investigate whether the account has been compromised.
+
+Phishing prevention includes:
+- Security awareness training.
+- Multi-factor authentication.
+- Email filtering.
+- URL reputation checking.
+- Domain protection.
+- Regular phishing simulations.
