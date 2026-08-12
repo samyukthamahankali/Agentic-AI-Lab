@@ -6,3 +6,5 @@ venv/
 chroma_db/
 .cache/
 Experiment_10_Fine_Tuning_Domain_Adaptation/cybersecurity_finetuned_model/
+# Experiment 11 - Model Optimization
+Experiment_11_Model_Optimization/quantized_cybersecurity_model/
